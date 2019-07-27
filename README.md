@@ -3,6 +3,9 @@
 
 SelectionBottomSheet is an Android Library for showing selection options with BottomSheet and RecyclerView instead of the ugly spinner, with easy usage in a few lines of code.
 
+## Demo
+![gif](https://github.com/Ahmed3Elshaer/SelectionBottomSheet/blob/master/art/demo.gif)
+
 ## Features 
 - AndroidX Support.
 - Kotlin Based.
